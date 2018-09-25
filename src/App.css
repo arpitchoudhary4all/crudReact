@@ -1,0 +1,9 @@
+.center{
+  text-align: center;
+}
+.bordered{
+  border: 4px solid black !important;
+}
+.space{
+  padding: 5px;
+}
